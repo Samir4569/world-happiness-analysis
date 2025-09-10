@@ -1,4 +1,3 @@
-# World Happiness Report Analysis
 
 ## Project Overview
 
