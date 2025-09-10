@@ -84,4 +84,3 @@ Key steps performed:
   </tr>
 </table>
 
-[Interactive Bubble Plot](interactive/bubble_plot.html)
