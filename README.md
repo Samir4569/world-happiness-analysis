@@ -66,3 +66,22 @@ Key steps performed:
 - **Stacked bar charts:** Contributions of Social Support, Freedom, and Generosity to happiness  
 - **Bubble plots:** GDP vs Life Evaluation (bubble size = Social Support or population)  
 - **Optional Interactive plots:** Using Plotly with hover info for countries
+
+  <table>
+  <tr>
+    <td>
+      <img src="Images/Happiness_avg_years.png" alt="Average Happiness Over Years" width="300"/>
+      <p style="text-align:center;">Average Happiness Over Years</p>
+    </td>
+    <td>
+      <img src="Images/plots_hue.png" alt="Top 5 Countries Happiness" width="300"/>
+      <p style="text-align:center;">Top 5 Countries Happiness Trends</p>
+    </td>
+    <td>
+      <img src="Images/Corolation_Life_evluation.png" alt="Correlation Heatmap" width="300"/>
+      <p style="text-align:center;">Correlation Heatmap</p>
+    </td>
+  </tr>
+</table>
+
+[Interactive Bubble Plot](interactive/bubble_plot.html)
